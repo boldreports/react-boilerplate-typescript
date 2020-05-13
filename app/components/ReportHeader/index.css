@@ -1,0 +1,17 @@
+.header {
+    height: 60px;
+    width: 150px;
+}
+
+.header a {
+    display: block;
+    width: inherit;
+    height: inherit;
+}
+
+.header img {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    display: block;
+}
