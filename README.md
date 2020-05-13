@@ -190,3 +190,15 @@ This project would not be possible without the support of these amazing folks. [
 
 This project is licensed under the MIT license, Copyright (c) 2019 Maximilian
 Stoiber. For more information see `LICENSE.md`.
+
+## Bold Reports
+
+Enterprise-class reporting tools for React development to embed reporting functionalities such as designing, viewing, exporting, and printing reports in your React applications.
+
+To know more about Bold Reports, visit [here](https://www.boldreports.com/).
+
+For documentation, visit [here](https://documentation.boldreports.com/react/).
+
+## Disclaimer
+
+We integrated our `Bold Reports React component` in [React Boilerplate TypeScript application](https://github.com/react-boilerplate/react-boilerplate-typescript).
