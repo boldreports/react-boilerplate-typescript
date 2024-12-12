@@ -159,7 +159,6 @@
     "jest-watch-typeahead": "0.4.2",
     "lint-staged": "10.0.8",
     "minimist": "1.2.5",
-    "ngrok": "3.2.7",
     "node-plop": "0.25.0",
     "null-loader": "3.0.0",
     "plop": "2.6.0",
