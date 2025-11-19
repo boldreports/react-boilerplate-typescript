@@ -1,7 +1,7 @@
 /* eslint-disable no-console */
 
 const chalk = require('chalk');
-const ip = require('ip');
+const ip = require('neoip');
 
 const divider = chalk.gray('\n-----------------------------------');
 
